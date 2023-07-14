@@ -1,1 +1,1 @@
-Data structures and algorithms course
+Data structures and algorithms course in C/C++
